@@ -7,3 +7,8 @@
 *.prj
 *.jpg
 *.h5
+*.pb
+*.index
+*.data-00000-of-00001
+./code/Modeling/InceptionV3_classifier
+./code/Modeling/VGG16_classifier
